@@ -7,7 +7,7 @@
 ### A passionate self-taught programmer from India :india: I've honed my skills through dedicated learning and hands-on projects. Driven by a desire to innovate, I'm always seeking new challenges and opportunities to contribute to the world of technology.
 
 #### Here's a List of things I am currently keeping myself busy with:
-- 🌱 Innovating for a better community: Building impactful web and mobile software to address local challenges and enhance people's lives.
+- 🌱 Innovating for a better community: Building impactful Desktop and Mobile Application to address local challenges and enhance people's lives.
 - 🛠 Senior Android Engineer proficient in Java and Kotlin, passionate about creating impactful mobile apps. Sharing my knowledge and experience by mentoring students in Android development.
 - 🕟 I have a strong foundation in native Android development using **Java**, having successfully built multiple mobile applications.
 - ✍️ Dive deeper with my tech blog: I share insights and experiences through tech blog posts on **[Blog Page](https://medium.com/@pinankhpatel)**. Come learn and grow with me!
