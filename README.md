@@ -5,6 +5,7 @@
 
 ### A dedicated technologist committed to creating innovative products. I love diving into the latest trends and sharing my expertise in Android development through guest lectures in collage and university. 👋
 ### A passionate self-taught programmer from India :india: I've honed my skills through dedicated learning and hands-on projects. Driven by a desire to innovate, I'm always seeking new challenges and opportunities to contribute to the world of technology.
+
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Innovating for a better community: Building impactful web and mobile software to address local challenges and enhance people's lives.
 - 🛠 Senior Android Engineer proficient in Java and Kotlin, passionate about creating impactful mobile apps. Sharing my knowledge and experience by mentoring students in Android development.
@@ -13,7 +14,10 @@
 - 💻 In my free time I do Competitive Programming.
 - 👯 When I'm not coding, find me on the court playing volleyball or cricket!😉<br>
 
+
 **Languages and Tools familiar or experience with:**  
+
+
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"></code> 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg"></code>
@@ -27,6 +31,8 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg"/></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg"/></code>
+
+
 
 
 
@@ -70,7 +76,7 @@
     <a href="https://x.com/PinankhPatel" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/pinankh-patel-19400350/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:pinankhpatel@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://iltwats.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+<!--     <a href="https://iltwats.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
   </p>
   <p align="center">  
      <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Pinankh.visitor-badge"> 
